@@ -53,6 +53,18 @@
       }
     },
     {
+      "displayName": "Caritas",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["Caritas"],
+      "tags": {
+        "amenity": "social_facility",
+        "brand": "Caritas",
+        "brand:wikidata": "Q29508174",
+        "brand:wikipedia": "de:Deutscher Caritasverband",
+        "name": "Caritas"
+      }
+    },
+    {
       "displayName": "Ehpad du CH",
       "id": "ehpadduch-d8925e",
       "locationSet": {"include": ["001"]},
